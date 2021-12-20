@@ -1,7 +1,7 @@
 let atx = null;
 let gainNode = null;
 let requiredGain = false;
-const AUDIO_VOLUME_TIMES = 10;
+const AUDIO_VOLUME_TIMES = 20;
 
 const handleTrackConnectGain = (track)=>{
   // Source Node
